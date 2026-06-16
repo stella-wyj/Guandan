@@ -1,6 +1,6 @@
 # 掼蛋 Guandan - Multiplayer Card Game
 
-An online, multiplayer card game! Inspired by one of the few card games we play during family reunion time &lt;3
+An online, multiplayer card game! Inspired by one of the few card games we play during family reunions &lt;3
 
 PLAY IT LIVE AT: https://guandan-kvyi.onrender.com/
 
