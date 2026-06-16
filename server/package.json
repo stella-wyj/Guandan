@@ -1,0 +1,21 @@
+{
+  "name": "guandan-server",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'No build step required for server'",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.98.0",
+    "@google/genai": "^2.6.0",
+    "cors": "*",
+    "dotenv": "^17.4.2",
+    "express": "*",
+    "openai": "^6.39.0",
+    "socket.io": "*",
+    "uuid": "*"
+  }
+}
